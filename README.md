@@ -18,5 +18,5 @@
   
   ### Videos: 
 
-    [![First part of video](https://img.youtube.com/vi/u6xf1nzWpfs/0.jpg)](https://youtu.be/u6xf1nzWpfs)
-    [![Second part of video](https://img.youtube.com/vi/Fn9s5EPLHXA/0.jpg)](https://youtu.be/Fn9s5EPLHXA)
+    ![First part of video](https://youtu.be/u6xf1nzWpfs)
+    ![Second part of video](https://youtu.be/Fn9s5EPLHXA)
