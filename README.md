@@ -16,9 +16,7 @@
   ### Contact Me:
   #### Reach me at zakonik1@hotmail.com
   
-  ### Video link: 
-    [First part of video](https://drive.google.com/file/d/1sS-NYaNqO9u3Rie6VBvzuT4BleuGppyU/view)
-    [Second part of video](https://drive.google.com/file/d/1saxRUrpBtpgF08UaHpoQf3REc1dnkiY5/view)
+  ### Videos: 
 
-  <iframe src="https://drive.google.com/file/d/1sS-NYaNqO9u3Rie6VBvzuT4BleuGppyU/preview" width="640" height="480"></iframe>
-  <iframe src="https://drive.google.com/file/d/1saxRUrpBtpgF08UaHpoQf3REc1dnkiY5/preview" width="640" height="480"></iframe>
+    [First part of video](https://youtu.be/u6xf1nzWpfs)
+    [Second part of video](https://youtu.be/Fn9s5EPLHXA)
